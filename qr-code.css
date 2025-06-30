@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Dancing+Script:wght@400..700&family=Edu+NSW+ACT+Hand+Pre:wght@400..700&family=Edu+VIC+WA+NT+Hand+Pre:wght@400..700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=Playwrite+HU&family=Roboto:ital,wght@0,100..900;1,100..900&family=Savate:ital,wght@0,200..900;1,200..900&display=swap');
+
+.container{
+    width:200px;
+    height:300px;
+    background-color: blueviolet;
+}
